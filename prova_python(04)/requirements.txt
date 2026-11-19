@@ -1,0 +1,7 @@
+#requirements.txt lista pandas, plotly, streamlit, openpyxl e python-calamine FEITO
+
+streamlit
+pandas
+plotly
+openpyxl
+python-calamine
